@@ -4,7 +4,7 @@
   <title><![CDATA[Beetlejuice Blog]]></title>
   <link href="http://beetlejuice.github.com/atom.xml" rel="self"/>
   <link href="http://beetlejuice.github.com/"/>
-  <updated>2012-08-23T00:46:51+03:00</updated>
+  <updated>2012-08-23T02:04:00+03:00</updated>
   <id>http://beetlejuice.github.com/</id>
   <author>
     <name><![CDATA[Beetlejuice]]></name>
@@ -18,7 +18,7 @@
     <link href="http://beetlejuice.github.com/blog/2012/08/22/good-news/"/>
     <updated>2012-08-22T23:41:00+03:00</updated>
     <id>http://beetlejuice.github.com/blog/2012/08/22/good-news</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>We will start soon&hellip;</p>
 ]]></content>
   </entry>
   
