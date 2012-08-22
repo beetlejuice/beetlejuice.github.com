@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Good news"
+date: 2012-08-22 23:41
+comments: true
+categories: 
+---
